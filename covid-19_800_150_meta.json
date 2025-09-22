@@ -1,0 +1,7 @@
+{
+  "pdf_hash": "58e5319f6e78c6b2",
+  "chunk_size": 800,
+  "chunk_overlap": 150,
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "num_chunks": 15
+}
